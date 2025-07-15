@@ -36,26 +36,18 @@ CodeAlpha_ToDoList/
 
 ## 📸 Screenshot
 
-> Upload a screenshot in your repo named `screenshot.png`
 
-![App Screenshot](CODE ALPHA-TO DO-LIST.png)
+![App Screenshot](https://github.com/cosmology3216/CodeAlpha_ToDoList/blob/main/CODE%20ALPHA-TO%20DO-LIST.PNG)
 ---
 
 ## 🎥 Demo Video
 
-> Replace the link below with your YouTube or Drive video link 👇
+
 
 🎬 [Click here to watch the demo video](ToDoList_MariyamSadiq.mp4)
 
----
 
-## 🚀 How to Use
 
-1. Clone or download this repository  
-2. Open `index.html` in your browser  
-3. Start adding and managing your daily tasks!
-
----
 
 ## 📜 License
 
